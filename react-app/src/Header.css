@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.267);
+}
+
+.top-right {
+    display: flex;
+    gap: 2rem;
+}
+
+.top-left {
+    display: flex;
+    margin: 0;
+    gap: 2rem;
+    align-items: center;
+}
